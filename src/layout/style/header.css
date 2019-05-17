@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    color: white;
+    justify-content: space-around;
+    padding: 20px 0;
+    box-shadow: 1px 1px 8px black;
+}
+
+.header__header-nav a {
+    text-decoration: none;
+    color: white !important;
+}
